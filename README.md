@@ -1,2 +1,2 @@
 # WTA-assignments
-DSA practice for the Western Tech Alumni
+DSA practice for the Western Tech Alumni club
